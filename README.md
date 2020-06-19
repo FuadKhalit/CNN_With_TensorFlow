@@ -1,2 +1,2 @@
-CoMputer_Vision
-Machine Learning, Deep Learning code
+Computer_Vision training code
+
